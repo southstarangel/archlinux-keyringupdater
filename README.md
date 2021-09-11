@@ -10,4 +10,4 @@ To install,
 2. cd in to the cloned repo
 3. Create an alias for the .sh script or just run it as `<sh auto-arch-keyring.sh>`.
 
-Example alias command: alias autoupgrade="sh ~/YourFolder/auto-arch-keyring.sh"
+Example alias command: `<alias autoupgrade="sh ~/YourFolder/auto-arch-keyring.sh">`
